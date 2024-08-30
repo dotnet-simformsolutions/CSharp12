@@ -119,7 +119,7 @@ To run the demo, ensure you have the following:
 ## Running the Demo
 1. Clone the repository.
    ```bash
-   git clone https://github.com/Ksheth0496/CSharp12Features.Demo.git
+   git clone https://github.com/dotnet-simformsolutions/CSharp12.git
 
 
 ## Happy Coding!
